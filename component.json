@@ -7,6 +7,6 @@
   "license": "BSD/GPL2",
   "scripts": [
     "index.js",
-    "cbc.js"
+    "cbc/index.js"
   ]
 }
