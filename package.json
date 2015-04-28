@@ -1,0 +1,9 @@
+{
+  "name": "sjcl",
+  "repo": "virtru-components/sjcl",
+  "description": "sjcl",
+  "version": "1.0.0",
+  "dependencies": {
+  },
+  "license": "MIT"
+}
