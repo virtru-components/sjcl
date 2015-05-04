@@ -2,7 +2,7 @@
   "name": "sjcl",
   "repo": "virtru-components/sjcl",
   "description": "The Stanford Javascript Crypto Library",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "development": {},
   "license": "BSD/GPL2",
   "scripts": [
